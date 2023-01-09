@@ -10,6 +10,7 @@ pipeline {
         stage('Test') {
             steps {
                 echo 'Testing...'
+                sh '${WORKSPACE}/check_cpu.sh'
             }
         }
         stage('Deploy') {
@@ -19,5 +20,4 @@ pipeline {
             }
         }
     }
-
 }
