@@ -1,0 +1,14 @@
+
+GitLab Training Videos:
+	• https://www.udemy.com/course/gitlab-cicd-course/ (subscription based, you can skip)
+	• https://app.pluralsight.com/library/courses/gitlab-fundamentals/table-of-contents (subscription based, you can skip)
+	• https://levelup.gitlab.com/courses/gitlab-with-git-essentials-s2
+	• https://docs.gitlab.com/ee/tutorials/
+	• https://www.youtube.com/watch?v=8aV5AxJrHDg&t=6939
+	• https://www.youtube.com/watch?v=8aV5AxJrHDg&t=9149
+	• https://www.youtube.com/watch?v=8aV5AxJrHDg&t=11461
+GitLab Training Docs:
+	• https://docs.gitlab.com/ee/ci/yaml/
+	• https://docs.gitlab.com/ee/ci/    # This include some video training as well
+	• https://docs.gitlab.com/ee/ci/examples/
+	• https://docs.gitlab.com/runner/ 
